@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
+remote_theme: wazabike/wazabike.github.io
 locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: "" # the subpath of your site, e.g. "/blog"
 url: https://wazabike.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /images/so-simple-site-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -30,11 +30,11 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+#google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+#disqus:
+#  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+#twitter:
+#  username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
