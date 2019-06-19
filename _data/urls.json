@@ -1,5 +1,4 @@
-[
-  {
+[{
     "text": "Home",
     "url": "/",
     "icon": "fa-home",
@@ -22,7 +21,7 @@
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "/wazabike",
     "icon": "fa-github"
   },
   {
