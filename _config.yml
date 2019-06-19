@@ -19,12 +19,12 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+url: https://wazabike.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: /images/logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
-mathjax: # MathJax equations, e.g. true
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 200
+mathjax: true # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -86,14 +86,14 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
-  email:
+author: wazabike
+  name: wazabike
+  picture: 
+  email: wazabike@gmail.com
   twitter:
   links:
-    - title:
-      url:
+    - title: wazabike
+      url: https://wazabike.github.io
       icon:
 
 # Footer Links
